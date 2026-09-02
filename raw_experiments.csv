@@ -1,0 +1,4 @@
+id,investigator_id,experiment_date,laser_type
+101,1,2023-10-01,Ti:Sapphire
+102,2,2023-10-02,HeNe
+103,1,2023-10-05,Nd:YAG
